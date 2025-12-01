@@ -1,23 +1,16 @@
 versión 1.0 
-
 •	implementación de los comandos básicos del programa como los “cin” y ”cout” 
-
 •	implementación de los Switch case para las opciones de idioma
 
 versión 1.1
-
 •	Crear un archivo para poder guardar la información de los usuario
 
 versión 1.2 
-
 •	implementación de vectores con información de usuarios ya existentes
-
 •	implementación de loops 
 
 versión 1.3
-
 •	Arreglar el bug que hacia que no se guardara la información de un usuario nuevo 
-
 •	Creación de un vector nuevo para que funcione al darle a la opción de iniciar sesión 
 
 
